@@ -4,4 +4,4 @@
 - 🌱 I'm learning some JavaScript and TypeScript
 - 👯 I'm looking to collaborate with other content creators
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?apiScriptTest&theme=radical)
